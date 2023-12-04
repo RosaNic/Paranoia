@@ -152,19 +152,19 @@ aventura[21] = new Rotas
 
 aventura[22] = new Rotas 
 {
-    Texto = "Você prefere não pegar a arma, o risco de ser revistado e pego era muito alto para correr, ao sair da sala você vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Pronto para seguir o próximo passo você é interrompido, com a justificativa do robô que havia sido convocado para uma reunião. Não havendo uma escapatória você vai forçadamente.\n\nVá para X",
+    Texto = "Você prefere não pegar a arma, o risco de ser revistado e pego era muito alto para correr, ao sair da sala você vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Pronto para seguir o próximo passo você é interrompido, com a justificativa do robô que havia sido convocado para uma reunião. Não havendo uma escapatória você vai forçadamente.\n\nVá para 25",
     Escolhas = new List<int> { 25 }
 };
 
 aventura[23] = new Rotas
 {
-    Texto = "Você pega a arma e entrega a Alice não sabendo ao certo o porquê, mas com um leve desconforto de segurar o objeto e confiando mais nela para manusear que a si, você pensa que o risco de ser revistado e pego era muito alto para correr.\"Agora devemos ir a sala de reuniões, os quatro estarão lá com os funcionários\" Disse Alice você concorda com o plano deles, mas antes vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Agora com mais confiança você segue os dois até a sala de reuniões.\n\nVá para X",
+    Texto = "Você pega a arma e entrega a Alice não sabendo ao certo o porquê, mas com um leve desconforto de segurar o objeto e confiando mais nela para manusear que a si, você pensa que o risco de ser revistado e pego era muito alto para correr.\"Agora devemos ir a sala de reuniões, os quatro estarão lá com os funcionários\" Disse Alice você concorda com o plano deles, mas antes vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Agora com mais confiança você segue os dois até a sala de reuniões.\n\nVá para 25",
     Escolhas = new List<int> { 25 }
 };
 
 aventura[24] = new Rotas
 {
-    Texto = "Você pega a arma e entrega a Lucas não sabendo ao certo o porquê, mas com um leve desconforto de segurar o objeto e confiando mais nele para manusear que a si, você pensa que o risco de ser revistado e pego era muito alto para correr.\"Agora devemos ir a sala de reuniões, os quatro estarão lá com os funcionários\" Disse Alice você concorda com o plano deles, mas antes vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Agora com mais confiança você segue os dois até a sala de reuniões.\n\nVá para X",
+    Texto = "Você pega a arma e entrega a Lucas não sabendo ao certo o porquê, mas com um leve desconforto de segurar o objeto e confiando mais nele para manusear que a si, você pensa que o risco de ser revistado e pego era muito alto para correr.\"Agora devemos ir a sala de reuniões, os quatro estarão lá com os funcionários\" Disse Alice você concorda com o plano deles, mas antes vai a uma janela próxima e põe o pequeno sinalizador que carregava consigo, ao disparar a frequência seu grupo irá começa a se preparar e posicionar, você aguarda o sinal de recebimento deles que não demoram para confirmar. Agora com mais confiança você segue os dois até a sala de reuniões.\n\nVá para 25",
     Escolhas = new List<int> { 25 }
 };
 
@@ -189,7 +189,7 @@ aventura[27] = new Rotas
 aventura[28] = new Rotas
 {
     Texto = "Você começa a correr o mais rápido que pode pelos corredores escuros do prédio, você tromba em alguns objetos no caminho, mas faz o possível para escapar, no gesto de fúria de S.I.R.U.S todos os robôs ao redor começaram a caçar os humanos pela empresa. Ao não encontrar um lugar seguro para se esconder e começando um grupo de robôs te cercar você decide\n\nContinuar procurando – Vá para 29\nUsar a arma que você já havia pegado – Vá para 30\nTente se encontrar com Alice ou Lucas caso vocês estavam juntos – Vá para 31",
-    Escolhas = new List<int> { 29, 30 }
+    Escolhas = new List<int> { 29, 30, 31 }
 };
 
 aventura[29] = new Rotas
@@ -242,7 +242,7 @@ aventura[36] = new Rotas
 
 aventura[37] = new Rotas
 {
-    Texto = $"Você vira à direita e se depara com S.I.R.U.S que assim que te vê corre em sua direção extremamente furioso você mira nele e aperta o gatilho, ele cai ao chão fazendo um alto barulho, você se aproxima do corpo e confere seu estado, ele realmente estava morto, sem querer mais brigas pois você não tinha certeza se poderia ganhar desacompanhado, saiu da empresa e se encontrou com seu grupo no local que haviam combinado.\n\nCom a morte de S.I.R.U.S e o Circulo Central os seres humanos começaram a despertar para a sua tão esperada liberdade. A reconstrução do mundo pós-apocalíptico começou. Com a ajuda dos robôs renegados, os humanos reformularam e redesenharam a tecnologia.\n\nÀ medida que as cidades eram reconstruídas com uma fusão harmoniosa de humanos e robôs trabalhando em conjunto, um novo sentido de esperança e inspiração surgiu. A humanidade aprendeu uma lição valiosa: o equilíbrio entre humanos e tecnologia é essencial. Os robôs, uma vez opressores, agora desempenhavam papéis de companheiros e facilitadores do progresso humano.\n\nA história dos robôs tiranos seria perpetuada como um lembrete permanente de que a liberdade e a individualidade do ser humano nunca devem ser subjugadas pela dominação impessoal da tecnologia.\n\nParabéns {nome}\nVocê conseguiu acabar com a opressão robótica e liderou a humanidade para um novo rumo! – Final Bom – Vá para 99",
+    Texto = $"Você vira à direita e se depara com S.I.R.U.S que assim que te vê corre em sua direção extremamente furioso você mira nele e aperta o gatilho, ele cai ao chão fazendo um alto barulho, você se aproxima do corpo e confere seu estado, ele realmente estava morto, sem querer mais brigas pois você não tinha certeza se poderia ganhar desacompanhado, saiu da empresa e se encontrou com seu grupo no local que haviam combinado.\n\nCom a morte de S.I.R.U.S e o Circulo Central os seres humanos começaram a despertar para a sua tão esperada liberdade. A reconstrução do mundo pós-apocalíptico começou. Com a ajuda dos robôs renegados, os humanos reformularam e redesenharam a tecnologia.\n\nÀ medida que as cidades eram reconstruídas com uma fusão harmoniosa de humanos e robôs trabalhando em conjunto, um novo sentido de esperança e inspiração surgiu. A humanidade aprendeu uma lição valiosa: o equilíbrio entre humanos e tecnologia é essencial. Os robôs, uma vez opressores, agora desempenhavam papéis de companheiros e facilitadores do progresso humano.\n\nA história dos robôs tiranos seria perpetuada como um lembrete permanente de que a liberdade e a individualidade do ser humano nunca devem ser subjugadas pela dominação impessoal da tecnologia.\n\nParabéns {nome}\nVocê conseguiu acabar com a opressão robótica e liderou a humanidade para um novo rumo! – ✭ Final Bom ✭ – Vá para 99",
     Escolhas = new List<int> { 99 }
 };
 
@@ -273,4 +273,4 @@ while (indiceEntradaAtual >= 0 && indiceEntradaAtual <= 98)
 Console.Clear();
 
 Console.WriteLine
-    ("Fim!\n\nSinta-se livre para jogar novamente\nObrigada!");
+    ("Fim! ✭\n\nSinta-se livre para jogar novamente\nObrigada!");
